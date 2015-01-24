@@ -1,1 +1,3 @@
 http://aaaaaashu.gitbooks.io/mac-dev-setup/
+
+打造个性化 iterm http://imwuyu.me/talk-about/cool-iterm2.html/
